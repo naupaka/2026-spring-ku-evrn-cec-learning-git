@@ -1,7 +1,7 @@
 ---
 title: "Analyze Maunaloa CO2 Data"
 author: "Naupaka Zimmerman"
-format: html
+format: pdf
 execute: 
   echo: false
   message: false
