@@ -8,7 +8,7 @@ execute:
   warning: false
 ---
 
-## Analysis of CO2 at Maunaloa over time
+## Analysis of CO2 at Maunaloa
 
 This analysis will look at the concentration of CO2 at Maunaloa Observatory over time.
 
